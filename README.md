@@ -173,9 +173,4 @@
 
 ---
 
-# 👨‍💻 Author
-
-Dimitrios Katsanos
-
-GitHub:
-https://github.com/Dimitriskatsanos42
+# 
